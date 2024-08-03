@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **and exploring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikashkashyap123](https://github.com/vikashkashyap123)
 
